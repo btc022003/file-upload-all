@@ -1,0 +1,17 @@
+{
+  "name": "file-upload-pre",
+  "version": "1.0.0",
+  "description": "base64和FormData两种形式的数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arivin <btc022003@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
